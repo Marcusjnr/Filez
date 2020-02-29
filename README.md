@@ -20,22 +20,16 @@ download apk:
 - [x] Search Files.
 - [x] Sort Files.
 - [x] Show/Hide Hidden files.
-- [ ] Copy/Move/Paste Files.
 - [x] Delete Files/Folders.
 - [x] Rename Files/Folders.
 - [x] Dark Mode.
-- [ ] FTP.
 - [x] Whatsapp Status Saver.
 
 ## 📸 ScreenShots
 
-
-| Light| Dark|
-|------|-------|
-|<img src="ss/1.jpg" width="400">|<img src="ss/2.jpg" width="400">|
+|<img src="ss/1.jpg" width="400">|<img src="ss/2.jpg" width="400">
 |<img src="ss/3.jpg" width="400">|<img src="ss/4.jpg" width="400">|
-|<img src="ss/5.jpg" width="400">|<img src="ss/6.jpg" width="400">|
-|<img src="ss/7.jpg" width="400">|<img src="ss/8.jpg" width="400">|
+|<img src="ss/5.jpg" width="400">
 
 ## 🔌 Plugins
 | Name | Usage |
